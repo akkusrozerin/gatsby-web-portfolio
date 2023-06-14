@@ -1,0 +1,13 @@
+{
+  "name": "Rozerin Akkus Portfolio",
+  "email": "rozerinakkus@gmail.com",
+  "description": "If you have any problems with me, or alternatively if you want to offer me a position, contact me from the links below.",
+  "image": {
+    "src": "../../images/deniro.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

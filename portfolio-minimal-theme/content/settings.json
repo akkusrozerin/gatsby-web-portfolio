@@ -1,0 +1,43 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Rozerin Akkus",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "portfolio for software developer",
+    "author": "Rozerin Akkus",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "Software developer with many interests",
+    "social": {
+      "github": "https://github.com/akkusrozerin",
+      "medium": "https://medium.com/@Ro_thoughts",
+      "linkedin": "https://www.linkedin.com/in/rozerin-akkus/",
+      "mail": "mailto:rozerinakkus@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Rozerin Akkus" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/#blog" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "https://drive.google.com/file/d/1SOGcus_EzUeWcwc0MMivLTOZ7V_2iW4A/view?usp=drive_link"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

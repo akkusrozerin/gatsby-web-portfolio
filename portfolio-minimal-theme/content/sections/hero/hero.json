@@ -1,0 +1,22 @@
+{
+  "intro": "hi there",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "my name is rozerin and this is my portfolio.",
+  "subtitle": {
+    "prefix": "I am a software developer ",
+    "highlight": "with many interests",
+    "suffix": "."
+  },
+  "description": "you can find (not so) useful links about me here.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}
